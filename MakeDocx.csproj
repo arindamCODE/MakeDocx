@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Aspose.Words" Version="17.10" />
+    <PackageReference Include="DocX" Version="1.0.0.22" />
+    <PackageReference Include="GemBox.Document" Version="27.3.30.1101" />
+    <PackageReference Include="GemBox.Spreadsheet" Version="41.3.30.1122" />
+    <PackageReference Include="HtmlToOpenXml.dll" Version="1.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Office.Interop.Word" Version="15.0.4797.1003" />
+    <PackageReference Include="Spire.doc" Version="6.0.35" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+</Project>

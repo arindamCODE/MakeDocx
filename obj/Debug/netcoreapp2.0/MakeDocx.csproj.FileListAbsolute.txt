@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\MakeDocx\bin\Debug\netcoreapp2.0\MakeDocx.deps.json
+c:\Users\Administrator\Desktop\MakeDocx\bin\Debug\netcoreapp2.0\MakeDocx.runtimeconfig.json
+c:\Users\Administrator\Desktop\MakeDocx\bin\Debug\netcoreapp2.0\MakeDocx.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\MakeDocx\bin\Debug\netcoreapp2.0\MakeDocx.dll
+c:\Users\Administrator\Desktop\MakeDocx\bin\Debug\netcoreapp2.0\MakeDocx.pdb
+c:\Users\Administrator\Desktop\MakeDocx\obj\Debug\netcoreapp2.0\MakeDocx.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\MakeDocx\obj\Debug\netcoreapp2.0\MakeDocx.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\MakeDocx\obj\Debug\netcoreapp2.0\MakeDocx.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\MakeDocx\obj\Debug\netcoreapp2.0\MakeDocx.dll
+c:\Users\Administrator\Desktop\MakeDocx\obj\Debug\netcoreapp2.0\MakeDocx.pdb
